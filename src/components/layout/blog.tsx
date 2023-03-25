@@ -9,7 +9,7 @@ import {
   Avatar,
   Box,
 } from "@chakra-ui/react";
-import { BlogJsonLd } from "next-seo";
+import { ArticleJsonLdLd } from "next-seo";
 // import { useRouter } from "next/router";
 
 import Container from "../Container";
@@ -32,7 +32,7 @@ export default function BlogLayout({
   const dateFormat = "MMMM dd, yyyy";
   return (
     <Container>
-      <BlogJsonLd
+      <ArticleJsonLdLd
         // eslint-disable-next-line
         url={"https://standingify.com/blog/" + frontMatter.title}
         title={frontMatter.title}
