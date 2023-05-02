@@ -2317,10 +2317,10 @@
     minimatch "^3.1.2"
     strip-json-comments "^3.1.1"
 
-"@fontsource/lexend@^4.5.10":
-  version "4.5.10"
-  resolved "https://registry.yarnpkg.com/@fontsource/lexend/-/lexend-4.5.10.tgz#a2ec4a7c251bf0162b6fdf9cad480c54587daabe"
-  integrity sha512-5FSyCRQ2ylL9aoxdjasNvEvTeaVStPuq1wHjOStvrKenv7XDpjEPr/TfW3jJyJ+yhOeZPl4qR96y7bFBX+uBzQ==
+"@fontsource/lexend@^4.5.15":
+  version "4.5.15"
+  resolved "https://registry.yarnpkg.com/@fontsource/lexend/-/lexend-4.5.15.tgz#ee033b850224d05b665d6661bf8d32c950f166bb"
+  integrity sha512-6edLmDmte8pJWtQ1NIahcJq0iWlf6b0/JLwkd7WbDQ3C5tZWnxjvbP4RSklMv4MPzGjpuYuYnc+QANbjUws1oA==
 
 "@humanwhocodes/config-array@^0.9.2":
   version "0.9.3"
