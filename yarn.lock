@@ -1989,7 +1989,7 @@
   dependencies:
     "@chakra-ui/utils" "1.10.4"
 
-"@commitlint/cli@^16.2.4":
+"@commitlint/cli@^16.3.0":
   version "16.3.0"
   resolved "https://registry.yarnpkg.com/@commitlint/cli/-/cli-16.3.0.tgz#5689f5c2abbb7880d5ff13329251e5648a784b16"
   integrity sha512-P+kvONlfsuTMnxSwWE1H+ZcPMY3STFaHb2kAacsqoIkNx66O0T7sTpBxpxkMrFPyhkJiLJnJWMhk4bbvYD3BMA==
@@ -3488,12 +3488,12 @@ commander@^9.3.0:
   resolved "https://registry.yarnpkg.com/commander/-/commander-9.3.0.tgz#f619114a5a2d2054e0d9ff1b31d5ccf89255e26b"
   integrity sha512-hv95iU5uXPbK83mjrJKuZyFM/LBAoCV/XhVGkS5Je6tl7sxr6A0ITMw5WoRV46/UaJ46Nllm3Xt7IaJhXTIkzw==
 
-commitlint@^16.2.4:
-  version "16.2.4"
-  resolved "https://registry.yarnpkg.com/commitlint/-/commitlint-16.2.4.tgz#36063a40ec5f51b3e65458e737cf6ca8aa9d9756"
-  integrity sha512-MLTmC68lgtVIG4RD6bAfaqygWRMU8HM50DOZGFsefIsPFwnSNeY6aA0l5oo8PWhQktgx4NH5E9JEehnuShN9hg==
+commitlint@^16.3.0:
+  version "16.3.0"
+  resolved "https://registry.yarnpkg.com/commitlint/-/commitlint-16.3.0.tgz#646c7f9385647e2f7b3bca0738a0a2a7c1275cd8"
+  integrity sha512-W6T/632YL4pXiKtk81lHdQ6CQzWyt2rwaYjeqsUPm0lyIWNhx9NiNI55GbZuPOnpaike7IZn56J+hnItY4pnBQ==
   dependencies:
-    "@commitlint/cli" "^16.2.4"
+    "@commitlint/cli" "^16.3.0"
     "@commitlint/types" "^16.2.1"
 
 common-tags@^1.8.0:
