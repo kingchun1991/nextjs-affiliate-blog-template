@@ -47,7 +47,7 @@
   "devDependencies": {
     "@commitlint/config-conventional": "^16.2.4",
     "@types/gtag.js": "^0.0.7",
-    "@types/react": "^17.0.45",
+    "@types/react": "^17.0.58",
     "commitlint": "^16.2.4",
     "eslint": "^8.19.0",
     "eslint-config-next": "^12.3.1",
